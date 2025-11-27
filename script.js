@@ -1,6 +1,6 @@
 // === KONFIG LOGIN SEDERHANA ===
-const VALID_USERNAME = "admin";
-const VALID_PASSWORD = "lab123";
+const VALID_USERNAME = "Faza";
+const VALID_PASSWORD = "Glab123!";
 const LOGIN_STORAGE_KEY = "redaksi_logged_in_user";
 
 // === LOGIKA REDAKSI ===
@@ -910,3 +910,4 @@ document.addEventListener("DOMContentLoaded", () => {
     logoutBtn.addEventListener("click", handleLogoutClick);
   }
 });
+
